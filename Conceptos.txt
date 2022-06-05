@@ -1,0 +1,18 @@
+¿Es lo mismo ciencia de datos que análisis de datos? Sustente la respuesta.
+
+No es lo mismo la ciencia y el analisis de datos, ya que la ciencia de datos es un campo interdisciplinario en el cual se usan múltiples métodos científicos, matemáticos, procesos y sistemas para comprender datos generados de múltiples formas, ya sean datos estructurados o no estructurados y finalmente habilitar información para toma de decisiones. El objetivo de la ciencia de datos es hacer que los datos generen respuestas útiles y acciones concretas con los cuales puedan resolver problemas complejos.
+
+Por lo cual el análisis de los datos viene siendo una de las etapas de la ciencia de datos. Y de las etapas iniciales y de alto impacto en la resolución de problemas, comprobación de hipótesis o generación de respuestas. El análisis de los datos es el proceso que consiste en la recopilación de los datos, limpieza de estos, transformación y correlación entre ellos para determinar cuales son relevantes y cuales no, cómo se relacionan y qué tipos de impactos generan.
+
+
+¿Es lo mismo dato que información? Un ejemplo de dato y un ejemplo de información
+
+Datos es un término que se refiere a hechos, eventos, transacciones, etc., que han sido registrados. Es la entrada sin procesar de la cual se produce la información.
+
+Información se refiere a los datos que han sido procesados y comunicados de tal manera que pueden ser entendidos e interpretados por el receptor.
+
+Ejemplo de datos:
+números, palabras o variables
+
+Ejemplo de informacion:
+Estudio de mercado
